@@ -22,6 +22,20 @@ Visualization	Plotly, Dash (optional usage)
 Environment	Jupyter Notebook
 Version Control	Git + GitHub
 
+### Dataset
+
+Relational database tables used:
+
+✔Customers
+
+✔Orders
+
+✔Products
+
+✔OrderItem
+
+✔SalesPerson
+
 ### Analysis Highlights
 
 Some of the insights derived include:
