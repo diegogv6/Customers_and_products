@@ -1,7 +1,7 @@
 # Customers & Products Data Analysis Project
 ### Overview
 
-This project analyzes a relational database containing Customers, Orders, and Products.
+This project analyzes a relational database containing Customers, Orders, and Products from a company that distributes mineral water in different flavors.
 Using PostgreSQL, Python, and Plotly, the goal was to extract valuable business insights, visualize trends, and demonstrate data analysis and dashboard development skills.
 
 The analysis was performed by connecting PostgreSQL directly to Python using SQLAlchemy, enabling seamless SQL querying inside the notebook. Pandas was used for data transformation, while Plotly provided interactive visualizations and dashboards to communicate insights clearly and effectively.
